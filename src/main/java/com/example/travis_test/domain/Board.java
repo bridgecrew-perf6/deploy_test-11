@@ -29,6 +29,7 @@ public class Board extends Timestamped {
         this.name = requestDto.getName();
         this.content = requestDto.getContent();
     }
+
         public void update(BoardRequestDto requestDto) {
         this.title = requestDto.getTitle();
         this.content = requestDto.getContent();
