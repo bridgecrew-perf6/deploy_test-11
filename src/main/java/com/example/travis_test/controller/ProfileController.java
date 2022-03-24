@@ -12,7 +12,6 @@ import java.util.List;
 @RestController
 public class ProfileController {
 
-
     private final Environment env;
 
     /* NginX가 어느 포트의 서버를 바라보고있는지 확인하기 위한 컨트롤러 */
