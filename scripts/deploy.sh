@@ -1,5 +1,5 @@
 #!/bin/bash
-REPOSITORY=/home/ubuntu/app/step3
+REPOSITORY=/home/ubuntu/app/step2
 PROJECT_NAME=hanghae8-admin
 
 echo "> Build 파일 복사"
