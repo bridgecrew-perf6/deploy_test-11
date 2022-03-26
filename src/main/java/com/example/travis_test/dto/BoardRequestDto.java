@@ -13,4 +13,6 @@ public class BoardRequestDto {
     private String name;
     private String content;
 
+
+
 }
